@@ -1,3 +1,4 @@
 # Coursera-lBM-Getting-Started-With-Git-and-Github
-## Author
+
+### Author
 Abhay Chaturvedi
